@@ -21,6 +21,8 @@ import static springfox.documentation.builders.PathSelectors.regex;
 @EnableSwagger2
 @EnableAsync
 
+
+
 public class Application extends SpringBootServletInitializer {
 
     @Override
